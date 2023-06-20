@@ -7,13 +7,6 @@ This code script is an example of a CAPTCHA (Completely Automated Public Turing 
 The following dependencies are required to run the script:
 - Tkinter: GUI library for Python (usually comes pre-installed with Python)
 - `captcha` library: Python library for generating CAPTCHA images
-- `Pillow` library: Python Imaging Library (PIL) fork for handling images
-
-To install the required dependencies, you can use pip:
-
-```bash
-pip install captcha Pillow
-```
 
 ## How to Run
 
